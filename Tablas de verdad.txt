@@ -1,0 +1,2 @@
+F = A'B'C' + A'B'C + A'BC + AB'C
+F = A' + BC'
